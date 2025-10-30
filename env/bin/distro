@@ -1,4 +1,4 @@
-#!/home/kongnyuy/Music/genAI/env/bin/python3
+#!/home/kongnyuy/Music/genAI/Generative-AI/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
